@@ -15,9 +15,9 @@ Open-source platform used
 
 - Traccar: https://www.traccar.org/
 - ERPNext: https://erpnext.com/
-- ODK
-- N8N
-- Kibana
+- ODK : https://github.com/getodk/central
+- N8N : https://n8n.io/
+- Kibana : https://www.elastic.co/fr/kibana/
 - PaygOps (coming soon)
 
 
