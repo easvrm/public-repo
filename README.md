@@ -26,3 +26,4 @@ One of the first assets developed by KSC is an installation guide for affordable
 Traccar & GPS installation to EV Strikes
 https://docs.google.com/document/d/1lrukE8zLHcN6wk9FFtdqYVTpx8S-qQpl/edit?usp=sharing&ouid=100605902206871954180&rtpof=true&sd=true
 
+![Alt text](https://lucid.app/publicSegments/view/b4c8b95c-0f4b-45ac-a5a4-3a423dc7a5e5/image.png)
